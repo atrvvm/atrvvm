@@ -3,8 +3,9 @@
 </h1>
 
 <p align="left">
-<h3>About Me</h3>
-I'm a multi-faceted designer with a keen eye for detail and a passion for creating aesthetically usable digital products. Currently, learning software development to expand my skill set with both design and code! <br>
+<h3>Hi, I'm Anna <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
+</h3>
+Multi-faceted designer with a keen eye for detail and a passion for creating aesthetically usable digital products. Currently, learning software development to expand my skill set with both design and code! <br>
 </p>
 
 
