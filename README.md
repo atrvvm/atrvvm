@@ -19,8 +19,8 @@ I'm a multi-faceted designer with a keen eye for detail and a passion for creati
     <li>🎮 I love variety gaming! (Current addiction: Marvel Rivals)
 </li>
 </ul>
-
-<h4>Learnings and Tools</h4>
+<br>
+<h3>Tech Stack</h3>
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='36px'/> </a>
 <a href="" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='36px'/> </a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="left" alt="git" height='36px'/> </a>
