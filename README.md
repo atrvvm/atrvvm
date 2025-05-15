@@ -5,7 +5,7 @@
 <p align="left">
 <h3>Hi, I'm Anna <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
 </h3>
-Multi-faceted digital product designer with a keen eye for detail and a passion for creating aesthetically usable digital products. Currently, learning software development to expand my skill set with both design and code! <br>
+Multi-faceted user experience/product designer with a keen eye for detail and a passion for creating aesthetically usable digital products. Currently, learning software development to expand my skill set with both design and code! <br>
 </p>
 
 
@@ -16,9 +16,9 @@ Multi-faceted digital product designer with a keen eye for detail and a passion 
 </li>
     <li>🩺 In my past life I was a registered nurse
 </li>
-  <li>♟️ Currently learning how to play chess
+  <li>♟️Currently learning how to play chess... amongst other things
 </li>
-    <li>🎮 I love variety gaming! (Current addiction: Marvel Rivals)
+    <li>🎮 I love to game! (Current addiction: Baldur's Gate 3)
 </li>
 </ul>
 <br>
