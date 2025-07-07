@@ -4,7 +4,7 @@
 
 <p align="left">
 </h3>
-I’m a product designer diving into the world of data. Learning SQL, Python, and all things analytics to blend design with insights. <br>
+I’m a Product Designer diving into the world of data. Learning SQL, Python, and all things analytics to blend design with insights. <br>
 </p>
 
 
@@ -13,7 +13,7 @@ I’m a product designer diving into the world of data. Learning SQL, Python, an
 <ul>
     <li>🌴 Location: Florida, USA
 </li>
-    <li>🩺 In my past life I was a registered nurse
+    <li>🩺 In my past life I was a Registered Nurse
 </li>
   <li>♟️ Currently learning how to play chess... amongst other things
 </li>
@@ -21,7 +21,7 @@ I’m a product designer diving into the world of data. Learning SQL, Python, an
 </li>
 </ul>
 <br>
-<h3>Tech Stack</h3>
+<h3>TECH STACK</h3>
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='36px'/> </a>
 <a href="" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='36px'/> </a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="left" alt="git" height='36px'/> </a>
