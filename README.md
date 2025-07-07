@@ -1,22 +1,21 @@
  <h1 align="center">
-  UX DEV-SIGNER ™
+  HEY, I'M ANNA <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
 </h1>
 
 <p align="left">
-<h3>Hi, I'm Anna <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
 </h3>
-Multi-faceted user experience/product designer with a keen eye for detail and a passion for creating aesthetically usable digital products. Currently, learning software development to expand my skill set with both design and code! <br>
+I’m a product designer diving into the world of data. Learning SQL, Python, and all things analytics to blend design with insights. <br>
 </p>
 
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGUxYm56a240eG05MmIzcjFsMmVoZTlpeXY3Z2ljM2Y4cHcwdW9ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc1eTViAqmQT2Dcs/giphy.gif" width="360px"/>
 
 <ul>
-    <li>🌴 Located: Florida, USA
+    <li>🌴 Location: Florida, USA
 </li>
     <li>🩺 In my past life I was a registered nurse
 </li>
-  <li>♟️Currently learning how to play chess... amongst other things
+  <li>♟️ Currently learning how to play chess... amongst other things
 </li>
     <li>🎮 I love to game! (Current addiction: Baldur's Gate 3)
 </li>
